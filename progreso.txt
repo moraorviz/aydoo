@@ -1,0 +1,7 @@
+Lista de tareas analisis y diseno orientado a objetos
+
+Mario
+
+Diagrama de paquetes		0%
+
+Diagrama de despliegue		0%
