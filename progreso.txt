@@ -1,7 +1,25 @@
 Lista de tareas analisis y diseno orientado a objetos
 
-Mario
+Entrega fase de elaboracion
 
-Diagrama de paquetes		0%
-
-Diagrama de despliegue		0%
+ - Requisitos suplementarios
+ - Diagrama de casos de uso 
+ - Arquitectura detallada
+ - Prototipo de interfaces
+ - Manual de usuarios preliminal
+ - Lista de riesgos revisados
+ - Glosario completo 
+ - Bitacora y lista de tareas
+ - Diagrama de clases
+ - Diagrama de interaccion
+ - Diagrama de paquetes
+ - Diagrama de navegabilidad
+ - Diagramas de entidad-relacion (no necesario si se hace el de clases)
+ - Diagrama de flujos
+ - Diagrama de componentes 
+ - Diagrama de despliegue
+ 
+ 
+ 
+ 
+ 
