@@ -1,9 +1,9 @@
 Lista de tareas analisis y diseno orientado a objetos
 
-Entrega fase de elaboracion
+Entrega fase de elaboracion (Lunes antes de las 18:00)
 
  - Requisitos suplementarios
- - Diagrama de casos de uso 
+ - Diagrama de casos de uso (80%, completado bastante con angel incluyendo diagramas el viernes)
  - Arquitectura detallada
  - Prototipo de interfaces
  - Manual de usuarios preliminal
@@ -11,13 +11,20 @@ Entrega fase de elaboracion
  - Glosario completo 
  - Bitacora y lista de tareas
  - Diagrama de clases
+		
  - Diagrama de interaccion
- - Diagrama de paquetes
+ - Diagrama de paquetes	(70%, subidos en png al drive compartido por Mario, pendientes de revision por Angel/Adri)
+	- general (aplicacion web multicapa basica) 100%
+    - subsistemas (funcionalidades especificas)  30%
  - Diagrama de navegabilidad
  - Diagramas de entidad-relacion (no necesario si se hace el de clases)
  - Diagrama de flujos
- - Diagrama de componentes 
- - Diagrama de despliegue
+ - Diagrama de componentes (60%, diagrama basico de componentes para las distintas funcionalidades, pendiente de revision)
+		
+ - Diagrama de despliegue (70%, diagrama de despliegue sobre un apache de un prototipo basico de aplicacion (sin funcionalidad porque no dara tiempo)
+							web con html,css,js,json y angular)
+							
+		
  
  
  
